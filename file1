@@ -1,3 +1,9 @@
 In todays class we will discuss about devops:
 Devops is nothing but a collaboration between devlopment and operations team[Production support].
-Devops supports microservice architcture.
+Devops supports microservice architecture.
+
+4 core values:
+1.CI/CD.
+2.Infra automation.
+3.Contanarization.
+4.container orchestration.
